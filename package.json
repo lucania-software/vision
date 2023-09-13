@@ -1,6 +1,6 @@
 {
     "name": "@lucania/vision",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A toolbox for developing dynamic web pages fast.",
     "files": [
         "build"
