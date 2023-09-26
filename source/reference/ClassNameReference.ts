@@ -16,7 +16,6 @@ export class ClassNameReference extends Reference<string> {
     public set value(newValue) {
         super.value = newValue;
         this._element.className = newValue;
-        console.log("Set class name", newValue);
     }
 
 }
